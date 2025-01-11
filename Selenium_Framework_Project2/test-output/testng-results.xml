@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-27T16:05:22 IST" name="Default suite" finished-at="2024-09-27T16:05:42 IST" duration-ms="19745">
+    <groups>
+    </groups>
+    <test started-at="2024-09-27T16:05:22 IST" name="Default test" finished-at="2024-09-27T16:05:42 IST" duration-ms="19745">
+      <class name="TestCases.LoginTestPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LoginTestPage@cb0755b]" started-at="2024-09-27T16:05:22 IST" name="setup" finished-at="2024-09-27T16:05:31 IST" duration-ms="8579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginToApplication()[pri:0, instance:TestCases.LoginTestPage@cb0755b]" started-at="2024-09-27T16:05:31 IST" name="loginToApplication" finished-at="2024-09-27T16:05:32 IST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestCases.LoginTestPage@cb0755b]" started-at="2024-09-27T16:05:32 IST" name="CloseBrowser" finished-at="2024-09-27T16:05:32 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LoginTestPage@cb0755b]" started-at="2024-09-27T16:05:32 IST" name="setup" finished-at="2024-09-27T16:05:36 IST" duration-ms="4637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitleofApplication()[pri:0, instance:TestCases.LoginTestPage@cb0755b]" started-at="2024-09-27T16:05:36 IST" name="verifyTitleofApplication" finished-at="2024-09-27T16:05:37 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleofApplication -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestCases.LoginTestPage@cb0755b]" started-at="2024-09-27T16:05:37 IST" name="CloseBrowser" finished-at="2024-09-27T16:05:37 IST" duration-ms="517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LoginTestPage@cb0755b]" started-at="2024-09-27T16:05:37 IST" name="setup" finished-at="2024-09-27T16:05:42 IST" duration-ms="4768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyURLofApplication()[pri:0, instance:TestCases.LoginTestPage@cb0755b]" started-at="2024-09-27T16:05:42 IST" name="verifyURLofApplication" finished-at="2024-09-27T16:05:42 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURLofApplication -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:TestCases.LoginTestPage@cb0755b]" started-at="2024-09-27T16:05:42 IST" name="CloseBrowser" finished-at="2024-09-27T16:05:42 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestCases.LoginTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
